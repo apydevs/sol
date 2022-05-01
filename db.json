@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        {
+          "id": 0,
+          "description": "This is the first sample TFN.",
+          "external_url": "https://training.manmothinteractive.com/", 
+          "name": "Hello TFN 0"
+        },
+        {
+          "id": 1,
+          "description": "This is the second sample TFN.",
+          "external_url": "https://training.manmothinteractive.com/", 
+          "name": "Hello TFN 1"
+        },
+        {
+          "id": 2,
+          "description": "This is the third sample TFN.",
+          "external_url": "https://training.manmothinteractive.com/",
+          "name": "Hello TFN 2"
+        }
+    ]
+}
